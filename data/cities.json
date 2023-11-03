@@ -1,0 +1,117 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Cambil",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-02T12:30:05.455Z",
+      "position": {
+        "lat": "37.70120736474139",
+        "lng": "-3.5156250000000004"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Saint-Pardoux-le-Lac",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-02T12:30:53.806Z",
+      "position": {
+        "lat": "46.057985244793024",
+        "lng": "1.2524414062500002"
+      },
+      "id": 98443217
+    },
+    {
+      "cityName": "Nibelle",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-11-02T12:48:48.827Z",
+      "position": {
+        "lat": "48.019324184801185",
+        "lng": "2.2631835937500004"
+      },
+      "id": 98443218
+    },
+    {
+      "cityName": "Nassogne",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2023-11-02T12:50:24.755Z",
+      "position": {
+        "lat": "50.10648772767332",
+        "lng": "5.273437500000001"
+      },
+      "id": 98443219
+    },
+    {
+      "cityName": "Reichelsheim",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-11-03T07:52:33.934Z",
+      "position": {
+        "lat": "50.3454604086048",
+        "lng": "8.833007812500002"
+      },
+      "id": 98443220
+    },
+    {
+      "cityName": "Dragoslavele",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2023-11-03T07:52:40.367Z",
+      "position": {
+        "lat": "45.3521452458518",
+        "lng": "25.136718750000004"
+      },
+      "id": 98443221
+    },
+    {
+      "cityName": "Djebel Messaad",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-11-03T07:54:57.029Z",
+      "position": {
+        "lat": "34.939985151560435",
+        "lng": "4.130859375000001"
+      },
+      "id": 98443222
+    }
+  ]
+}
